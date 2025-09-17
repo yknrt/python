@@ -1,0 +1,85 @@
+{
+    "dspFlg": 0,
+    "obsValue": {
+        "stg": 96.25,
+        "tmObsTime": "2025/09/17 09:10",
+        "obsTime": "2025/09/17 09:02",
+        "stgQmFlg": null,
+        "swstgOvlvl": 0,
+        "stgHght": -1.55
+    },
+    "min10Values": [
+        {
+            "stg": 96.25,
+            "tmObsTime": "2025/09/17 09:10",
+            "obsTime": "2025/09/17 09:02",
+            "stgQmFlg": null,
+            "swstgOvlvl": 0,
+            "stgHght": -1.55
+        },
+        {
+            "stg": 96.27,
+            "tmObsTime": "2025/09/16 09:00",
+            "obsTime": "2025/09/16 09:00",
+            "stgQmFlg": null,
+            "swstgOvlvl": 0,
+            "stgHght": -1.53
+        },
+        {
+            "stg": 96.32,
+            "tmObsTime": "2025/09/15 09:00",
+            "obsTime": "2025/09/15 09:00",
+            "stgQmFlg": null,
+            "swstgOvlvl": 0,
+            "stgHght": -1.48
+        },
+        {
+            "stg": 96.41,
+            "tmObsTime": "2025/09/14 09:10",
+            "obsTime": "2025/09/14 09:02",
+            "stgQmFlg": null,
+            "swstgOvlvl": 0,
+            "stgHght": -1.39
+        },
+        {
+            "stg": 96.6,
+            "tmObsTime": "2025/09/13 09:00",
+            "obsTime": "2025/09/13 09:00",
+            "stgQmFlg": null,
+            "swstgOvlvl": 0,
+            "stgHght": -1.2
+        },
+        {
+            "stg": 96.23,
+            "tmObsTime": "2025/09/12 09:00",
+            "obsTime": "2025/09/12 09:00",
+            "stgQmFlg": null,
+            "swstgOvlvl": 0,
+            "stgHght": -1.57
+        },
+        {
+            "stg": 96.25,
+            "tmObsTime": "2025/09/11 09:00",
+            "obsTime": "2025/09/11 09:00",
+            "stgQmFlg": null,
+            "swstgOvlvl": 0,
+            "stgHght": -1.55
+        },
+        {
+            "stg": 96.23,
+            "tmObsTime": "2025/09/10 09:00",
+            "obsTime": "2025/09/10 09:00",
+            "stgQmFlg": null,
+            "swstgOvlvl": 0,
+            "stgHght": -1.57
+        },
+        {
+            "stg": 96.24,
+            "tmObsTime": "2025/09/09 09:00",
+            "obsTime": "2025/09/09 09:00",
+            "stgQmFlg": null,
+            "swstgOvlvl": 0,
+            "stgHght": -1.56
+        }
+    ]
+}
