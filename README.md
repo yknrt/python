@@ -30,6 +30,8 @@ script/fetch.py：web上のデータを取得しファイルに保存するス�
 script/run.py：実行用スクリプト
 
 
+
+
 # utilization
 
 条件入力から船舶・吊り荷の動揺量等を算定し，稼働率を算定するプログラム。
